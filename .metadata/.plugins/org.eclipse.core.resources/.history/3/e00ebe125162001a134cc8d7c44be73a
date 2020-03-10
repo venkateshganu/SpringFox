@@ -1,0 +1,5 @@
+package com.techprimer.springboot.swaggerexample.resource;
+
+public class HelloResource {
+
+}

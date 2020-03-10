@@ -1,0 +1,5 @@
+package com.techprimer.springboot.resource;
+
+public class HelloResource {
+
+}
